@@ -1,0 +1,18 @@
+#id1{ 
+	text-shadow: 4px 4px 4px lightblue;
+	text-decoration: underline;
+	}
+.Name1{
+	text-align: center;
+	border-style: dotted;
+	border-width: 10px;
+	border-color: lightblue;
+	padding: 5px;
+	}
+.Bg1{
+	background-color: lightblue;
+	font-family: Kristen ITC Regular;
+	}
+.Bg2{
+	font-family: Broadway Regular;
+	}
